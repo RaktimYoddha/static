@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding:0;
+}
+body{
+  background-image:url('lk.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  border-width: 500px;
+}
+hr{border-style: none;
+border-top-style:  dashed;
+border-color: blue;
+border-width: medium}
+.t1{
+  border-spacing: 20px;
+}
+.p1{
+  font-size: 30px;
+}
+.a1{
+  font-size: 30px
+}
+.t{
+  border-spacing: 20px;
+  text-align: left;
+}
+.t,ll{
+  font-size: 25px;
+}
+.t,mm{
+  font-size: 25px;
+}
